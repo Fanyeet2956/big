@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Hello World.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BigBody.cpp
+  CameraController.cpp
+  GameAI.cpp
+  GameUI.cpp
+  Globals.cpp
+  PelletFocus.cpp
+C:\Users\Dariel Risco\source\repos\Hello World\Hello World\PelletFocus.cpp(16,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dariel Risco\source\repos\Hello World\Hello World\PelletFocus.cpp(16,47): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Dariel Risco\source\repos\Hello World\Hello World\PelletFocus.cpp(17,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dariel Risco\source\repos\Hello World\Hello World\PelletFocus.cpp(17,47): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  Player.cpp
+  Generating Code...
+  Hello World.vcxproj -> C:\Users\Dariel Risco\source\repos\Hello World\x64\Debug\Agar.io clone.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
